@@ -2,9 +2,12 @@
 body {
    background-color: #000000;
    color: white; 
-   font-family: "Bokor", system-ui;
 }
 
+header {
+   font-size: 25px;
+   font-family: "Bokor", system-ui;
+}
 .chamada {
    background: rgb(184, 156, 213);
    padding-top: 80px;
